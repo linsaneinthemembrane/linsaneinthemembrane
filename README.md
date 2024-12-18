@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex Lin</h1>
 <h3 align="center">A M.S. Candidate in Analytics at the Institute for Advanced Analytics</h3>
 
-- 🌱 I’m currently learning **pandas, SQL, Tableau**
+- 🌱 I’m currently learning **pandas, SQL, Tableau, and Polars**
 
 - 📫 How to reach me **alexlindatascience@gmail.com**
 
