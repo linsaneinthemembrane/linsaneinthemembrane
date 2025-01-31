@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.svg" width="100%" alt="Header">
+  <img src="images/header.svg" width="100%" alt="Header">
 </div>
 
 <h3 align="left">Connect with me:</h3>
