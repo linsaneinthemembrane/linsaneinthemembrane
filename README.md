@@ -1,7 +1,14 @@
 <div align="center">
   <img src="images/header.svg" width="100%" alt="Header">
-</div>
 
+  🔭 I'm currently working on [ascii-video-maker](https://github.com/linsaneinthemembrane/ascii-video-maker)
+
+  🌱 I'm currently learning **Polars, SQL, Tableau, pandas**
+
+  👨‍💻 All projects: [linsaneinthemembrane.github.io](https://linsaneinthemembrane.github.io)
+
+  📫 Contact: **alexlindatascience@gmail.com**
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alexlin4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexlin4" height="30" width="40" /></a>
