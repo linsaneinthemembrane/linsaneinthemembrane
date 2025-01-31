@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.svg" width="800" height="400" alt="header">
+  <img src="images/header.svg" width="800" height="400" alt="header">
 </div>
 
 - 🔭 I'm currently working on [ascii-video-maker](https://github.com/linsaneinthemembrane/ascii-video-maker)
