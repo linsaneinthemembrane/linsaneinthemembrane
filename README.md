@@ -1,6 +1,6 @@
 <div align="left">
   <img src="images/header.svg" width="100%" alt="Header">
-  
+  <p></p>
   <p style="font-size: 2em;">
     🔭 I'm currently working on <a href="https://github.com/linsaneinthemembrane/ascii-video-maker">ascii-video-maker</a>
   </p>
