@@ -10,6 +10,7 @@
           background: linear-gradient(-45deg, #0f172a, #94a3b8);
           background-size: 200% 200%;
           animation: gradient 15s ease infinite;
+          border-radius: 10px;
         }
         .content {
           margin: 0;
