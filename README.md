@@ -1,38 +1,6 @@
 <div align="center">
-  <svg fill="none" viewBox="0 0 1200 400" width="1200" height="400" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        <style>
-          .header {
-            width: 100%;
-            height: 100%;
-            background: linear-gradient(-45deg, #0f172a, #94a3b8);
-            padding: 40px;
-            border-radius: 15px;
-            text-align: center;
-          }
-          h1, h3 {
-            color: white;
-            margin: 0;
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica;
-          }
-          h3 { margin-top: 20px; }
-        </style>
-        <div class="header">
-          <h1>Hi 👋, I'm Alex Lin</h1>
-          <h3>I architect data solutions that bridge technical innovation with business value.</h3>
-        </div>
-      </div>
-    </foreignObject>
-  </svg>
-
-🔭 I'm currently working on [ascii-video-maker](https://github.com/linsaneinthemembrane/ascii-video-maker)
-
-🌱 I'm currently learning **Polars, SQL, Tableau, pandas**
-
-👨‍💻 All of my projects are available at [https://linsaneinthemembrane.github.io](https://linsaneinthemembrane.github.io)
-
-📫 How to reach me **alexlindatascience@gmail.com**
+  <img src="header.svg" width="100%" alt="Header">
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,7 +9,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
