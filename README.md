@@ -5,7 +5,7 @@
 
 ### 🌱 I'm currently learning Polars, SQL, Tableau, pandas
 
-### 👨‍💻 All projects: [linsaneinthemembrane.github.io](https://linsaneinthemembrane.github.io)
+### 👨‍💻 View my portfolio: [linsaneinthemembrane.github.io](https://linsaneinthemembrane.github.io)
 
 ### 📫 Contact: [alexlindatascience@gmail.com](mailto:alexlindatascience@gmail.com)
 
