@@ -10,25 +10,11 @@
       </stop>
     </linearGradient>
   </defs>
-  <style>
-    .content { 
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica;
-      color: white;
-    }
-    .title { font-size: 32px; }
-    .subtitle { font-size: 24px; }
-  </style>
   <rect width="100%" height="100%" fill="url(#gradient)" opacity="0.9"/>
   <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml" class="content">
-      <h1 class="title" style="text-align: center; margin-top: 40px;">Hi 👋, I'm Alex Lin</h1>
-      <h3 class="subtitle" style="text-align: center; margin-top: 20px;">I architect data solutions that bridge technical innovation with business value.</h3>
-      <div style="margin: 40px; text-align: center;">
-        <p>🔭 I'm currently working on ascii-video-maker</p>
-        <p>🌱 I'm currently learning Polars, SQL, Tableau, pandas</p>
-        <p>👨‍💻 All projects: linsaneinthemembrane.github.io</p>
-        <p>📫 Contact: alexlindatascience@gmail.com</p>
-      </div>
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica; color: white; text-align: center;">
+      <h1 style="margin-top: 40px;">Hi 👋, I'm Alex Lin</h1>
+      <h3 style="margin-top: 20px;">I architect data solutions that bridge technical innovation with business value.</h3>
     </div>
   </foreignObject>
 </svg>
