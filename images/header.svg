@@ -1,0 +1,38 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          width: 100%;
+          height: 100%;
+          background: url('http://unsplash.it/1200x800') center center no-repeat;
+          background-size: cover;
+          position: relative;
+        }
+        .container:before {
+          content: '';
+          position: absolute;
+          top: 0;
+          right: 0;
+          bottom: 0;
+          left: 0;
+          background-image: linear-gradient(to bottom right,#002f4b,#dc4225);
+          opacity: .6; 
+        }
+        .content {
+          position: relative;
+          z-index: 1;
+          color: white;
+          text-align: center;
+          padding: 20px;
+        }
+      </style>
+      <div class="container">
+        <div class="content">
+          <h1>Hi 👋, I'm Alex Lin</h1>
+          <h3>I architect data solutions that bridge technical innovation with business value.</h3>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
