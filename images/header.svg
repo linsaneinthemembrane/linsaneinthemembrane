@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1200" height="200" viewBox="0 0 1200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1200" height="250" viewBox="0 0 1200 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <linearGradient id="gradient" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0f172a">
@@ -12,9 +12,11 @@
   </defs>
   <rect width="100%" height="100%" fill="url(#gradient)" opacity="0.9" rx="15" ry="15"/>
   <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica; color: #94a3b8; text-align: center;">
-      <h1 style="margin-top: 40px; color: white;">Hi 👋, I'm Alex Lin</h1>
-      <h3 style="margin-top: 20px; color: #94a3b8;">I architect data solutions that bridge technical innovation with business value.</h3>
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div style="padding: 40px; text-align: center; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica;">
+        <h1 style="margin: 0; color: white; font-size: 4em; font-weight: 500;">Hi 👋, I'm Alex Lin</h1>
+        <h3 style="margin: 20px 0 0 0; color: #94a3b8; font-size: 2em; font-weight: normal;">I architect data solutions that bridge technical innovation with business value.</h3>
+      </div>
     </div>
   </foreignObject>
 </svg>
