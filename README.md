@@ -1,6 +1,8 @@
-<div align="center">
+<div align="left">
   <img src="images/header.svg" width="100%" alt="Header">
-
+  
+<p>
+  
   🔭 I'm currently working on [ascii-video-maker](https://github.com/linsaneinthemembrane/ascii-video-maker)
 
   🌱 I'm currently learning **Polars, SQL, Tableau, pandas**
