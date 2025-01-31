@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Alex Lin</h1>
-<h3 align="center">I architect data solutions that bridge technical innovation with business value.</h3>
+<div align="center">
+  <img src="header.svg" width="800" height="400" alt="header">
+</div>
 
-- 🔭 I’m currently working on [ascii-video-maker](https://github.com/linsaneinthemembrane/ascii-video-maker)
+- 🔭 I'm currently working on [ascii-video-maker](https://github.com/linsaneinthemembrane/ascii-video-maker)
 
-- 🌱 I’m currently learning **Polars, SQL, Tableau, pandas**
+- 🌱 I'm currently learning **Polars, SQL, Tableau, pandas**
 
 - 👨‍💻 All of my projects are available at [https://linsaneinthemembrane.github.io](https://linsaneinthemembrane.github.io)
 
