@@ -1,31 +1,31 @@
-<div align="left">
+<div align="left" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica;">
   <img src="images/header.svg" width="100%" alt="Header">
   <p></p>
-  <p style="font-size: 2em;">
-    🔭 I'm currently working on <a href="https://github.com/linsaneinthemembrane/ascii-video-maker">ascii-video-maker</a>
+  <p style="font-size: 28px; margin: 20px 0;">
+    🔭 I'm currently working on <a href="https://github.com/linsaneinthemembrane/ascii-video-maker" style="color: #94a3b8; text-decoration: none;">ascii-video-maker</a>
   </p>
   
-  <p style="font-size: 2em;">
+  <p style="font-size: 28px; margin: 20px 0;">
     🌱 I'm currently learning <strong>Polars, SQL, Tableau, pandas</strong>
   </p>
   
-  <p style="font-size: 2em;">
-    👨‍💻 All projects: <a href="https://linsaneinthemembrane.github.io">linsaneinthemembrane.github.io</a>
+  <p style="font-size: 28px; margin: 20px 0;">
+    👨‍💻 All projects: <a href="https://linsaneinthemembrane.github.io" style="color: #94a3b8; text-decoration: none;">linsaneinthemembrane.github.io</a>
   </p>
   
-  <p style="font-size: 2em;">
-    📫 Contact: <a href="mailto:alexlindatascience@gmail.com">alexlindatascience@gmail.com</a>
+  <p style="font-size: 28px; margin: 20px 0;">
+    📫 Contact: <a href="mailto:alexlindatascience@gmail.com" style="color: #94a3b8; text-decoration: none;">alexlindatascience@gmail.com</a>
   </p>
 </div>
 
-<h3 style="font-size: 3em; margin-top: 30px;">Connect with me:</h3>
+<h3 style="font-size: 36px; margin: 40px 0 20px 0; font-weight: 600;">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/alexlin4" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexlin4" height="40" width="50"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexlin4" height="50" width="60"/>
   </a>
 </p>
 
-<h3 style="font-size: 3em; margin-top: 30px;">Languages and Tools:</h3>
+<h3 style="font-size: 36px; margin: 40px 0 20px 0; font-weight: 600;">Languages and Tools:</h3>
 <p align="left" style="margin-top: 20px;"> 
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/></a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/></a> 
