@@ -3,10 +3,10 @@
   <defs>
     <linearGradient id="gradient" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0f172a">
-        <animate attributeName="stop-color" values="#0f172a; #94a3b8; #0f172a" dur="10s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#0f172a; #000000; #0f172a" dur="7s" repeatCount="indefinite" />
       </stop>
-      <stop offset="100%" stop-color="#94a3b8">
-        <animate attributeName="stop-color" values="#94a3b8; #0f172a; #94a3b8" dur="10s" repeatCount="indefinite" />
+      <stop offset="100%" stop-color="#000000">
+        <animate attributeName="stop-color" values="#000000; #0f172a; #000000" dur="7s" repeatCount="indefinite" />
       </stop>
     </linearGradient>
   </defs>
